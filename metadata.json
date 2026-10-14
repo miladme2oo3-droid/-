@@ -1,0 +1,6 @@
+{
+  "name": "درخت‌نامه شاهنامه",
+  "description": "سامانه جامع و تعاملی تبارشناسی، هفت‌خوان رستم، نقشه اساطیری و دانشنامه شخصیت‌های شاهنامه فردوسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
